@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🏡 [website][website] **|** 
+🏡 [website][Website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [TUBITAK]: https://www.tubitak.gov.tr
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [website]: https://www.omersahin.org
-[linkedin]: https://linkedin.com/in/bradgarropy
+[linkedin]: https://linkedin.com/in/omeersahin
 
 <!--
 [twitter]: https://twitter.com/bradgarropy
