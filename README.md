@@ -8,7 +8,7 @@
 👔 [linkedin][linkedin]
 
 [TUBITAK]: https://www.tubitak.gov.tr
-[banner]: https://raw.githubusercontent.com/omeersahin/omeersahin/blob/main/omersahin.png
+[banner]: https://raw.githubusercontent.com/omeersahin/omeersahin/master/banner.png
 [website]: https://www.omersahin.org
 [linkedin]: https://linkedin.com/in/omeersahin
 
